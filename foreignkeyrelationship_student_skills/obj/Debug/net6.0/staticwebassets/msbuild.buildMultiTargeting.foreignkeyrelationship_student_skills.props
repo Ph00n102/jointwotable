@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\foreignkeyrelationship_student_skills.props" />
+</Project>

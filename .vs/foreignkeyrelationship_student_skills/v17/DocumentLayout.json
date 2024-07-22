@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\foreignkeyrelationship_student_skills\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\views\\student\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\views\\student\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\migrations\\20240722091125_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\migrations\\20240722091125_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C0C1198-EF67-43A7-BFEE-35070788BA9F}|foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills.csproj|solutionrelative:foreignkeyrelationship_student_skills\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Views\\student\\Index.cshtml",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Views\\student\\Index.cshtml",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Views\\student\\Index.cshtml",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Views\\student\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T16:42:13.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addstudent.cshtml",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Views\\student\\addstudent.cshtml",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Views\\student\\addstudent.cshtml",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Views\\student\\addstudent.cshtml",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Views\\student\\addstudent.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T16:30:47.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addskill.cshtml",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Views\\student\\addskill.cshtml",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Views\\student\\addskill.cshtml",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Views\\student\\addskill.cshtml",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Views\\student\\addskill.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T16:19:27.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentController.cs",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Controllers\\studentController.cs",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Controllers\\studentController.cs",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Controllers\\studentController.cs",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Controllers\\studentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:09:25.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Program.cs",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Program.cs",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Program.cs",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:08:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mycontext.cs",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Models\\mycontext.cs",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Models\\mycontext.cs",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Models\\mycontext.cs",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Models\\mycontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:04:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.cs",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Models\\student.cs",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Models\\student.cs",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Models\\student.cs",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Models\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:59:11.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "skill.cs",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Models\\skill.cs",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Models\\skill.cs",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Models\\skill.cs",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Models\\skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:55:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240722091125_my.cs",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Migrations\\20240722091125_my.cs",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\Migrations\\20240722091125_my.cs",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\Migrations\\20240722091125_my.cs",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\Migrations\\20240722091125_my.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:11:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\appsettings.json",
+              "RelativeDocumentMoniker": "foreignkeyrelationship_student_skills\\appsettings.json",
+              "ToolTip": "Z:\\foreignkeyrelationship_student_skills\\foreignkeyrelationship_student_skills\\appsettings.json",
+              "RelativeToolTip": "foreignkeyrelationship_student_skills\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T08:52:51.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

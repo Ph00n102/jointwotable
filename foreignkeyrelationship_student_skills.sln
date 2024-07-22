@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreignkeyrelationship_student_skills", "foreignkeyrelationship_student_skills\foreignkeyrelationship_student_skills.csproj", "{2C0C1198-EF67-43A7-BFEE-35070788BA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0C1198-EF67-43A7-BFEE-35070788BA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0C1198-EF67-43A7-BFEE-35070788BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0C1198-EF67-43A7-BFEE-35070788BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0C1198-EF67-43A7-BFEE-35070788BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C17E60B-C410-42BE-9144-3FAFFC6A9300}
+	EndGlobalSection
+EndGlobal
